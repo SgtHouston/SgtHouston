@@ -1,5 +1,5 @@
 ### Hi, I'm Chris,
-### A retired United States Marine combat veteran and proud Ivy-League dropout turned Software Developer.  Thanks for stopping by!
+### A retired United States Marine combat veteran turned Software Developer.  Thanks for stopping by!
 
 - 🛠 I'm developing: A PostgreSQL/Express/React/Redux/Firebase project that lets senior and junior devs connect for mentorship!
 - 🌱 I'm improving: My familiarity and proficiency with full-stack tools daily!
