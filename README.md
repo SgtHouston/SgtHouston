@@ -3,7 +3,7 @@
 
 - 🛠 Currently developing: A PostgreSQL/Express/React/Redux/Firebase project that lets senior and junior devs connect for mentorship!
 - 🌱 Currently improving: My familiarity and proficiency with full-stack tech daily!
-- 🤝 Let's collaborate on: Interesting projects that will expand my knowledge-base and development acumen!
+- 🤝 Let's collaborate on: Interesting full-stack or frontend projects that will expand my knowledge-base and development acumen!
 - 📫 How to reach me: ChrisBCoding247@Gmail.com or drop me a line @ https://CHouston.dev !
 
 
