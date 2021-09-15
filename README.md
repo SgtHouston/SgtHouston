@@ -1,5 +1,5 @@
 ### 👋🏾 Hi I'm Chris,
-### A retired U.S. Marine combat veteran turned Software Developer. Feel free to check out some of my pinned projects. Thanks for stopping by!
+### A retired U.S. Marine combat veteran turned Software Developer.  Feel free to check out some of my pinned projects. Thanks for stopping by!
 
 - 🛠 Currently developing: A React/Redux/Firebase project that lets senior and junior devs connect for mentorship!
 - 🌱 Currently improving: My familiarity and proficiency with full-stack tech daily!
