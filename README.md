@@ -4,6 +4,6 @@
 - 🛠 Currently developing: A React project for a customer to show off their business's handiwork!
 - 🌱 Currently improving: My React skills!
 - 🤝 Let's collaborate on: Interesting full-stack or frontend projects!
-- 📫 How to reach me: Chris.Houston314@Gmail.com or drop me a line @ https://CHouston.dev !
+- 📫 How to reach me: Chris.Houston314@gmail.com or drop me a line @ https://CHouston.dev !
 
 
