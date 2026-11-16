@@ -4,6 +4,6 @@
 - 🛠 Currently developing: An app that solves a sole-proprietor pain point!
 - 🌱 Currently improving: My System Design skills!
 - 🤝 Let's collaborate on: Interesting full-stack or frontend projects!
-- 📫 How to reach me: Chris.Houston314@gmail.com or drop me a line @ https://CHouston.dev !
+- 📫 How to reach me: ChrisBCoding247@gmail.com or drop me a line @ https://CHouston.dev !
 
 
