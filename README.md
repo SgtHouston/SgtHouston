@@ -1,5 +1,5 @@
 ### 👋🏾 Hi I'm Chris,
-### A retired U.S. Marine turned Software Developer.  Feel free to check out some of my pinned projects. Thanks for stopping by!
+### A retired U.S. Marine turned Software Developer. Thanks for stopping by!
 
 - 🛠 Currently developing: An app that solves a sole-proprietor pain point!
 - 🌱 Currently improving: My System Design skills!
